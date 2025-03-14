@@ -1,1 +1,1 @@
-# Online-Voing-Sysytem
+# Online-Voting-System
